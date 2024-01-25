@@ -9,10 +9,10 @@
 ```python
 from typing import Tuple, List, Dict
 
-class Tekky:
+class Platon:
     pass
 
-class Attributes(Tekky):
+class Attributes(Platon):
     @property
     def contact(self) -> Tuple[str, str, str]:
         telegram = "t.me/"
@@ -33,7 +33,7 @@ class Attributes(Tekky):
         langs = {
             'expert'      : ['python'],
             'intermediate': ['lua', 'js'],
-            'learning'    : ['c', 'c++', 'c#', 'asm', 'java']
+            'learning'    : ['c', 'c++', 'c#', 'java']
         }
         specialities  = ['web/app reverse engineering', 'fullstack']
 	environnement = ['vscode']
