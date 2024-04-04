@@ -1,52 +1,28 @@
-<!-- <p align="center">
-    <img alt="" src=https://img.shields.io/github/stars/platonvadim?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
-    <img alt="" src=https://komarev.com/ghpvc/?username=platonvadim&style=for-the-badge />
-</p> -->
+# Hi there, I'm Vadim! 👋
 
+I'm a passionate Software Engineering fascinated by the realms of high- and low-level systems, simulations, and computer graphics!
 
-<h2 align="center">About Me </h2>
+🌟 Here's a glimpse of what I'm into:
+- 🖥️ High- and low-level systems
+- 🎮 Simulations
+- 🖼️ Computer graphics
 
-```python
-from typing import Tuple, List, Dict
+## 🔧 Technologies I work with:
 
-class Platon:
-    pass
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-class Attributes(Platon):
-    @property
-    def contact(self) -> Tuple[str, str, str]:
-        telegram = "t.me/"
-        channel  = "t.me/"
-        email    = "i@vplaton.ru"
-	    
-	    return telegram, telegram_channel, email
+## 📈 Stats:
 
-    @property
-    def life(self) -> Tuple[List[str], int]:
-        langs = ['Russian', 'English', 'Romanian']
-        age   = 25
-		
-        return langs, age
-	
-    @property
-    def coding(self) -> Tuple[Dict[str, List[str]], List[str], List[str]]:
-        langs = {
-            'expert'      : ['python'],
-            'intermediate': ['lua', 'js'],
-            'learning'    : ['c', 'c++', 'c#', 'java']
-        }
-        specialities  = ['web/app reverse engineering', 'fullstack']
-	environnement = ['vscode']
+![LeetCode Stats](https://leetcard.jacoblin.cool/platonvadim?theme=light&font=Anek%20Devanagari)
 
-	return langs, specialities, environnement
-```
-<h2 align="center">Skills </h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,androidstudio,c,cs,cpp,js,css,html" />
-  </a>
-</p>
-
-
-
+👀 Thank you for dropping by! You are the ![Visitor Count](https://profile-counter.glitch.me/{platonvadim}/count.svg)th visitor!
