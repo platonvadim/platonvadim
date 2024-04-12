@@ -4,7 +4,7 @@ I'm a passionate Software Engineering fascinated by the realms of high- and low-
 
 🌟 Here's a glimpse of what I'm into:
 - 🖥️ High- and low-level systems
-- 🎮 Simulations
+- 🎮 Simulations & Game Developing
 - 🖼️ Computer graphics
 
 ## 🔧 Technologies I work with:
