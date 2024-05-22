@@ -1,9 +1,9 @@
 # Hi there, I'm Vadim! 👋
 
-I'm a passionate Software Engineering fascinated by the realms of high- and low-level systems, simulations, and computer graphics!
+I'm a passionate Software Engineering!
 
 🌟 Here's a glimpse of what I'm into:
-- 🖥️ High- and low-level systems
+- 🖥️ Web Developing
 - 🎮 Simulations & Game Developing
 - 🖼️ Computer graphics
 
@@ -16,9 +16,7 @@ I'm a passionate Software Engineering fascinated by the realms of high- and low-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📈 Stats:
